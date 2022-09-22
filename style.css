@@ -1,62 +1,257 @@
 .sidebar{
     
-    color: white;
-    background:  black;
+    color: #A12568;
+    background: #3B185F;
     max-width: 300px;
     max-height: 200px;
-    box-shadow: rgba(240, 16, 16, 0.3);
+    box-shadow: #2A0944;
     border-radius: 2rem;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 .aside {
 flex-wrap: wrap;
-background-color: rgb(145, 60, 26);
+background-color: #2A0944;
 text-align: center;
 }
 
 h1{
     font-size: 5rem;
-    color:black;
+    color:#A12568;
     
 
 }
 
 .header{
-
-
-    width: 100%;  
-    color: white !important;
-    padding: 60px; 
-    white-space: normal;
-    background: rgb(145, 60, 26);
-    
+width: 100%;  
+color: #A12568;
+padding: 60px; 
+background: #2A0944;
     
 }
 
 nav li{
-
-    list-style-type: none;
+list-style-type: none;
     display: inline-block;   
-    color:aliceblue;
+    color:#A12568;
     float: right;
+    
+}
+
+main{
+    min-height: 150vh;
+    position: relative;
+    }
+
+.navigation-bar a{
+
+    
+    color:#A12568;
+    font-size: 2rem;
+    float: right;
+    margin-right: 20px;
+    padding:0;
+    color: #A12568;   
+    
+
+}
+.footer {
+    
+    color: #A12568;
+    font-size: 2rem;
+    max-width: 100%;
+    list-style-type: none;
+    background: #2A0944 ;
     
 }
 
 
 
-.navigation-bar a{
+footer li {
+
+    display:inline-block;
+    padding: 10px;
+    
+    
+   
+}
+
+
+footer ul {
+    list-style-type: none;
+    
+
+}
+
+
+a:hover {
 
     
-    color:white !important;
-    font-size: 2rem;
-    float: right;
-    margin-right: 20px;
-    padding:0;
-    color: white;   
+    background-color:rgb(59, 24, 95);
+
+}
+
+
+
+
+a { 
+    color:  rgb(42, 9, 68) ;
+
+}
+
+
+
+@media screen and (width <= 700px) {
+    .navigation-bar {
+      
+      display: flex;
+      padding: 2px;
+      justify-content: start;
+      
+      /* scale: 50%; */
+      
+    }
+
+    .Portfolio {
+      font-size: 60px;
+        
+      }
+  }
+
+  .text-1{
+    color: #A12568;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.box {
+
+    background: white;
+    min-height: 80vh;
+    width: 75%; max-width:1400px; margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    background: linear-gradient(to right top, #4a9c9c9c, #bed7dba2);
+    top: 10%;
+    right: 4%;
+    border-radius: 2rem;
+    z-index: 3;
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.5);
+    flex-wrap: wrap;
+    position:relative;
+    top: 0rem;
     
+}
+
+
+.wireframe1 {
+    
+    background: no-repeat center;
+    background-size: 100% 100%;
+    height: 20rem;
+    width: 90%;
+    border: 2px solid rgb(8, 76, 121);
+    display: inline;
+    text-align: center;
+    color: white;
+    
+}
+
+.wireframe1:hover{
+
+    opacity:75%;
+
+
+}
+
+.wireframe2 {
+
+    background: ) no-repeat center;
+    background-size: 100% 100%;
+    height: 10rem;
+    width: 40%;
+    border: 2px solid rgb(8, 76, 121);
+    display: inline;
+    text-align: center;
+    color: white;
+    
+}   
+
+.wireframe2:hover{
+
+    opacity:75%;
+
+
+}
+    
+
+.wireframe3 {
+
+    background:  no-repeat center;
+    background-size: 100% 100%;
+    height: 10rem;
+    width: 40%;
+    border: 2px solid rgb(8, 76, 121);
+    display: inline;
+    text-align: center;
+    color: white;
+    
+} 
+
+.wireframe3:hover{
+
+    opacity:75%;
+
+
+}
+
+.wireframe4 {
+
+    background:  no-repeat center;
+    background-size: 100% 100%;
+    height: 10rem;
+    width: 40%;
+    border: 2px solid rgb(8, 76, 121);
+    display: inline;
+    text-align: center;
+    color: white;
+    
+} 
+
+.wireframe4:hover{
+
+    opacity:75%;
+
+
+}
+
+
+.wireframe5 {
+
+    background:  no-repeat center;
+    background-size: 100% 100%;
+    height: 10rem;
+    width: 40%;
+    border: 2px solid rgb(8, 76, 121);
+    display: inline;
+    text-align: center;
+    color: white;
+    
+} 
+
+.wireframe5:hover{
+
+    opacity:75%;
+
 
 }
 
