@@ -1,7 +1,7 @@
 .sidebar{
     
     color: #A12568;
-    background: #3B185F;
+    background: #2A0944;
     max-width: 300px;
     max-height: 200px;
     box-shadow: #2A0944;
@@ -88,7 +88,7 @@ footer ul {
 a:hover {
 
     
-    background-color:rgb(59, 24, 95);
+    background-color:#2A0944;
 
 }
 
@@ -96,7 +96,7 @@ a:hover {
 
 
 a { 
-    color:  rgb(42, 9, 68) ;
+    color:  #2A0944;
 
 }
 
@@ -133,7 +133,7 @@ a {
 
 .box {
 
-    background: #3B185F;
+    background:#2A0944;
     min-height: 0px;
     width: 0px max: width 0px; margin: 0;
     display: flex;
@@ -156,11 +156,11 @@ a {
 
 .wireframe1 {
     
-    background: url("horiseon.JPG") no-repeat center;
+    background:#2A0944 url("horiseon.JPG") no-repeat center;
     background-size: 100% 100%;
     height: 40rem;
     width: 90%;
-    border: 2px solid rgb(8, 76, 121);
+    border: 2px solid #A12568;
     display: inline;
     text-align: center;
     color:#A12568;
@@ -177,11 +177,11 @@ a {
 
 .wireframe2 {
 
-    background:url("trading\ card\ games.jpg") no-repeat center;
+    background:#2A0944 url("trading\ card\ games.jpg") no-repeat center;
     background-size: 100% 100%;
     height: 20rem;
     width: 40%;
-    border: 2px solid rgb(8, 76, 121);
+    border: 2px solid #A12568);
     display: inline;
     text-align: center;
     color: #A12568;
@@ -198,11 +198,11 @@ a {
 
 .wireframe3 {
 
-    background:url() no-repeat center;
+    background:#2A0944 url(marios.jpg) no-repeat center;
     background-size: 100% 100%;
     height: 20rem;
     width: 40%;
-    border: 2px solid rgb(8, 76, 121);
+    border: 2px solid #A12568;
     display: inline;
     text-align: center;
     color: #A12568;
@@ -218,11 +218,11 @@ a {
 
 .wireframe4 {
 
-    background:  no-repeat center;
+    background:#2A0944 url(tech\ repair.jpg) no-repeat center;
     background-size: 100% 100%;
     height: 20rem;
     width: 40%;
-    border: 2px solid rgb(8, 76, 121);
+    border: 2px solid #A12568;
     display: inline;
     text-align: center;
     color: #A12568;
@@ -239,11 +239,11 @@ a {
 
 .wireframe5 {
 
-    background:  no-repeat center;
+    background:#2A0944 url(bowling.jpg) no-repeat center;
     background-size: 100% 100%;
     height: 20rem;
     width: 40%;
-    border: 2px solid rgb(8, 76, 121);
+    border: 2px solid #A12568;
     display: inline;
     text-align: center;
     color: #A12568;
