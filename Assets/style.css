@@ -16,6 +16,7 @@
 flex-wrap: wrap;
 background-color: #2A0944;
 text-align: center;
+color: #A12568;
 }
 
 h1{
@@ -41,10 +42,7 @@ list-style-type: none;
     
 }
 
-main{
-    min-height: 150vh;
-    position: relative;
-    }
+
 
 .navigation-bar a{
 
@@ -136,21 +134,23 @@ a {
 .box {
 
     background: #3B185F;
-    min-height: 80vh;
-    width: 75%; max: width 2800pxpx; margin: 0 auto;
+    min-height: 0px;
+    width: 0px max: width 0px; margin: 0;
     display: flex;
     justify-content: center;
     align-items:  center;
     background: #3B185F;
-    top: 10%;
-    right: 4%;
-    border-radius: 3rem;
+    top: 0px;
+    right: 0px;
+    border-radius: ;
     z-index: 3;
     box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.5);
     flex-wrap: wrap;
-    position:relative;
+    position:0px;
     top: 0rem;
     color:#A12568;
+    padding-left: 0px;
+    padding-left: 0px;
 }
 
 
@@ -158,7 +158,7 @@ a {
     
     background: url("horiseon.JPG") no-repeat center;
     background-size: 100% 100%;
-    height: 20rem;
+    height: 40rem;
     width: 90%;
     border: 2px solid rgb(8, 76, 121);
     display: inline;
@@ -179,7 +179,7 @@ a {
 
     background:url("trading\ card\ games.jpg") no-repeat center;
     background-size: 100% 100%;
-    height: 10rem;
+    height: 20rem;
     width: 40%;
     border: 2px solid rgb(8, 76, 121);
     display: inline;
@@ -200,12 +200,12 @@ a {
 
     background:url() no-repeat center;
     background-size: 100% 100%;
-    height: 10rem;
+    height: 20rem;
     width: 40%;
     border: 2px solid rgb(8, 76, 121);
     display: inline;
     text-align: center;
-    color: white;
+    color: #A12568;
     
 } 
 
@@ -220,12 +220,12 @@ a {
 
     background:  no-repeat center;
     background-size: 100% 100%;
-    height: 10rem;
+    height: 20rem;
     width: 40%;
     border: 2px solid rgb(8, 76, 121);
     display: inline;
     text-align: center;
-    color: white;
+    color: #A12568;
     
 } 
 
@@ -241,12 +241,12 @@ a {
 
     background:  no-repeat center;
     background-size: 100% 100%;
-    height: 10rem;
+    height: 20rem;
     width: 40%;
     border: 2px solid rgb(8, 76, 121);
     display: inline;
     text-align: center;
-    color: white;
+    color: #A12568;
     
 } 
 
